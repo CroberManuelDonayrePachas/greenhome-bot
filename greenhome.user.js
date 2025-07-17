@@ -3,9 +3,12 @@
 // @namespace    http://tampermonkey.net/
 // @version      6.9
 // @description  Recolector automático con cambio de árbol, notificación al celular y ajuste manual de árboles 🌳
+// @author       Crober Manuel Donayre
 // @match        https://greenearths.pe/h5/*
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=greenearths.pe
 // @grant        none
 // ==/UserScript==
+
 
 (function () {
   'use strict';
