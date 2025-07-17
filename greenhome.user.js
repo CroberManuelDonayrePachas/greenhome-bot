@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Green Home
+// @name         Green Home Bot
 // @namespace    http://tampermonkey.net/
 // @version      6.9
 // @description  Recolector automático con cambio de árbol, notificación al celular y ajuste manual de árboles 🌳
